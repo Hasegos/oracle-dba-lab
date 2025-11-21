@@ -1,5 +1,7 @@
 # 📌 01. SELECT 모듈 학습 관리 가이드
 
+> ⬅️ **[Programmers 메인으로 돌아가기](../README.md)**
+>
 > 이 디렉토리는 Programmers SQL Kit의 SELECT 모듈 문제를 Oracle 기반으로 학습한 공간입니다.<br>
 > 단순히 문법 암기가 아닌 **문제를 통해 '조건 설정 → 정렬 → 함수 → NULL 처리' 패턴을 자연스럽게 익히는 것**을 목표로 합니다.
 
