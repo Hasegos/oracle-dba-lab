@@ -27,8 +27,7 @@
 | [`00_SQL_Cheatsheet`]() | Oracle 전용 SQL 문법, 자주 쓰는 패턴 정리 |
 | [`01_Programmers`](./01_Programmers/README.md) | Programmers SQL Kit 단계별 문제 풀이 |
 
-각 폴더 내부에는  
-**단계별 README** 및 **개별 문제별 SQL 파일**이 포함되어 있습니다.
+각 폴더 내부에는 **단계별 README** 및 **개별 문제별 SQL 파일**이 포함되어 있습니다.
 
 ---
 
