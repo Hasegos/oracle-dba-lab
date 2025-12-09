@@ -48,14 +48,3 @@
 | **2** | 핵심 요구사항 요약 | 문제가 요구하는 조건 및 결과 정리 |
 | **3** | 주요 기술 및 함수 | 문제 해결에 사용된 핵심 SQL 구문 (e.g., `NVL`, `ROWNUM`, `TO_CHAR`) |
 | **4** | 구현 논리 및 단계 | 문제 분석부터 답안 도출까지의 사고 과정 |
-
-### 3. 커밋 메시지 컨벤션
-
-[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) 규약을 따르며, `Type(Scope): Subject` 형식으로 작성합니다.
-
-| Type | Scope (범위) | 설명 | 예시 |
-| :---: | :---: | :--- | :--- |
-| **`feat`** | `(SELECT/L1)` | 새로운 문제 풀이 코드 추가 | `feat(SELECT/L1): Solve '2021년 가입 회원 수 구하기' (01)` |
-| **`docs`** | `(ROOT)` 또는 `(SELECT)` | README 및 가이드라인 문서 추가/수정 | `docs(ROOT): Initialize main README structure` |
-| **`fix`** | `(JOIN/L3)` | 기존 코드의 로직 오류 수정 | `fix(JOIN/L3): Correct HAVING clause logic in problem 05` |
-| **`chore`** | `(CheatSheet)` | 치트 시트 내용 정리 및 업데이트 | `chore(CheatSheet): Update DATE and String function examples` |
